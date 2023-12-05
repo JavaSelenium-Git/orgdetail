@@ -1,2 +1,4 @@
 # New file added
 Fourth file of the feature branch
+
+new line added
